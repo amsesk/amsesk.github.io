@@ -23,5 +23,16 @@ Most fungi are uncultured, meaning that they have not, and possibly cannot, be i
 [Davis et al. 2019. *Mol Phylogenet Evol.*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886740/) 
 
 
-## Development and implementation of novel algorithms and software for biological data processing
+## Development and implementation of novel algorithms and software for single cell genomics of cryptic microbes
 
+
+Whole-genome sequencing of uncultured eukaryotic genomes is complicated by difficulties in acquiring sufficient amounts of tissue. Single-cell genomics (SCG) by multiple displacement amplification provides a technical workaround, yielding whole-genome libraries which can be assembled de novo. Downsides of multiple displace- ment  amplification  include  coverage  biases  and  exacerbation  of  contamination.  These  factors  affect  assembly continuity and fidelity, complicating discrimination of genomes from contamination and noise by available tools. Uncultured eukaryotes and their relatives are often underrepresented in large sequence data repositories, further impairing identification and separation.
+
+In our 2020 publication, we  compare  the  ability  of  filtering  approaches  to  remove  contamination  and  resolve  eukaryotic  draft genomes from SCG metagenomes, finding significant variation in outcomes. To address these inconsistencies, we introduced a consensus approach that is codified in the SCGid software package. SCGid parallelly filters assemblies using different approaches, yielding three intermediate drafts from which consensus is drawn. Using genuine and mock SCG metagenomes, we show that our approach corrects for variation among draft genomes predicted by indi- vidual approaches and outperforms them in recapitulating published drafts in a fast and repeatable way, providing a useful alternative to available methods and manual curation.
+Availability and implementation: 
+
+The SCGid package is implemented in python and R. Source code is available at [http://www.github.com/amsesk/SCGid](http://www.github.com/amsesk/SCGid) under the GNU GPL 3.0 license.
+
+#### Selected papers
+
+[Amses et al. 2020. *Bioinform*.](https://academic.oup.com/bioinformatics/article/36/7/1994/5640497)

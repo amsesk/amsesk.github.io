@@ -21,4 +21,3 @@ permalink: /publications/
 2\. Davis, W.J., **K.R. Amses**, E.S. James, T.Y. James. 2019. A new 18S phylogeny of uncultured predacious fungi (Zoopagales). Mycologia. 111(2):291–298. doi: [10.1080/00275514.2018.1546066](https://www.tandfonline.com/doi/full/10.1080/00275514.2018.1546066).
 
 1\. Smith, M.E., **K.R. Amses**, T.F. Elliott, K. Obase, M., M.C. Aime, T.W. Henkel. 2015. New sequestrate fungi from Guyana: Jimtrappea guyanensis gen. sp. nov., Castellanea pakaraimophila gen. sp. nov., and Costatisporus cyanescens gen. sp. nov. (Boletaceae, Boletales). IMA Fungus. 6(2):297–317. doi: [10.5598/imafungus.2015.06.02.03](https://imafungus.biomedcentral.com/articles/10.5598/imafungus.2015.06.02.03).
-
